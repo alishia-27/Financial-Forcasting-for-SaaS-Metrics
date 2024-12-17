@@ -25,6 +25,10 @@ This Dataset can be found in [Kaggle](https://www.kaggle.com/datasets/gjthompson
 ### **Results**
 - Clear 12-month ARR forecast.
 - Insights into ARR growth patterns to inform decision-making.
+- ![image](https://github.com/user-attachments/assets/49d77b1c-5fab-4b2d-908c-381ee80a84ab)
+- ![image](https://github.com/user-attachments/assets/fc36f04b-d031-4a50-bc39-ed24e7aa8f88)
+
+
 ---
 ### **To Run the Project**
 1. Clone the repo: ```bash git clone https://github.com/your-username/financial_forecasting.git``` cd financial_forecasting
