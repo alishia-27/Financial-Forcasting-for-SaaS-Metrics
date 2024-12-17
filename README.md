@@ -35,4 +35,4 @@ This Dataset can be found in [Kaggle](https://www.kaggle.com/datasets/gjthompson
 - Add churn analysis and advanced forecasting models.
 - Build interactive dashboards with Tableau or Power BI.
 ---
-### **Author** [Alishia D’Souza](https://www.linkedin.com/in/AlishiaD-Souza/)
+### **Author:** [Alishia D’Souza](https://www.linkedin.com/in/AlishiaD-Souza/)
